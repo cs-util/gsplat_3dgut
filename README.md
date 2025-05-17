@@ -56,7 +56,7 @@ Setting up and activating Visual Studio can be done through these steps:
 3. Activate your Visual C++ environment:
     Navigate to the directory where `vcvars64.bat` is located. This path might vary depending on your installation. A common path is:
     ```
-    C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC\Auxiliary\Build
+    C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\Build
     ```
 
 4. Run the following command:
